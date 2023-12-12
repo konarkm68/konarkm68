@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![overview](https://raw.githubusercontent.com/konarkm68/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![languages](https://raw.githubusercontent.com/konarkm68/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![overview](https://raw.githubusercontent.com/konarkm68/GitHub-Profile-Statistics/master/generated/overview.svg#gh-dark-mode-only)
+![languages](https://raw.githubusercontent.com/konarkm68/GitHub-Profile-Statistics/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **konarkm68/konarkm68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
